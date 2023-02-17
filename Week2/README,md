@@ -1,0 +1,12 @@
+· How you create a fraction in Python?
+  Use a Float value
+· What is the advantage to use fractions?
+allows more precise calculations or data
+· What function converts a number to a binary notation?
+bin()
+· What function do you use to change the way a floating point value is displayed?
+Round(x,y)
+· Is there a limit on how many statements I can place in an if or else code block?
+No
+· Is there a limit on how many elif statements I can place in an if statement
+No

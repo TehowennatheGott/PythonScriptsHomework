@@ -1,0 +1,12 @@
+char = str(input("Enter your character for pyramid\n"))
+n = 0
+r = int(input("Enter your pyramid size\n"))
+
+for m in range(1, r+1):
+   for gap in range(1, (r-m)+1):
+      print(end=" ")
+   while n != (2*m-1):
+      print(char, end="")
+      n = n + 1
+   n = 0
+   print()

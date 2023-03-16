@@ -2,8 +2,9 @@
 # number in a list
  
 # list of numbers
-list1 = [10, 20, 4, 45, 99,2999]
- 
- 
+list1 = []
+for i in range(5):
+    newnum=input("enter a new number\n")
+    list1.append(newnum)
 # printing the maximum element
 print("Largest element is:", max(list1))
